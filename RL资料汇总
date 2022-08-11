@@ -1,0 +1,54 @@
+> 欢迎参考、讨论，更加欢迎指正、更新、补充
+## 书籍
+Richard Sutton 和 Andrew Barto的《强化学习：简介（第二版）》
+Reinforcement Learning:An Introduction 2:edition Sutton http://incompleteideas.net/book/RLbook2018.pdf
+课后习题答案 https://pan.baidu.com/s/14NcCbshyHlWA0YyuEEPPqw
+课程主页：http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+Re-implementations in Python by Shangtong Zhang
+书籍主页：http://incompleteideas.net/book/the-book-2nd.html
+代码地址: http://incompleteideas.net/book/code/code2nd.html
+ 
+EasyRL
+https://datawhalechina.github.io/easy-rl/
+https://github.com/datawhalechina/easy-rl/releases
+在线课程
+王树森的强化学习课程
+视频：B站，YouTube
+Slides和讲义： https://github.com/wangshusen/DRL 
+王树森2016年获得浙大博士，伯克利博士后，2018-2021年在Stevens Institute of Technology任助理教授。现为小红书算法工程师、基础模型团队负责人。他的强化学习课程视频很受欢迎。
+据悉，图灵将出版他的深度强化学习图书。
+ 
+David Silver 的强化学习课程
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+ 
+DeepMind UCL 系列课程
+https://www.deepmind.com/learning-resources
+ 
+百度PaddlePaddle/PARL 推广课程
+https://aistudio.baidu.com/aistudio/course/introduce/1335
+ 
+社区
+http://www.deeprlhub.com/
+https://aijishu.com/blog/deeprl
+ 
+人物
+Richard S. Sutton
+强化学习教父 
+就职于，加拿大阿尔伯塔大学计算机科学系与Google-DeepMind
+他的弟子David sliver正是DeepMind创造 AlphaGo的带头人
+个人主页：http://www.incompleteideas.net/
+ 
+Andrew G. Barto
+“教父”的老师
+个人主页：http://www-anw.cs.umass.edu/~barto/
+ 
+David sliver
+AlphaGo的带头人
+强化学习课程： http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
+播客
+[频道] Lex Fridman Podcast
+
+[访谈] Lex Fridman Podcast: David Silver & Lex Fridman
+#86-David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning
+
